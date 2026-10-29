@@ -89,6 +89,12 @@
               "courseName": "Patient Moving & Handling and Cardiac First Response",
               "url": "https://shannonsafety.ie/book-a-course/",
               "notes": "Held on Mondays; contact compliance@accesshealthcare.ie for a 35% coupon."
+            },
+            {
+              "providerName": "Shannon Safety",
+              "courseName": "Cardiac First Response",
+              "url": "https://shannonsafety.ie/book-a-course/",
+              "notes": "Held on Mondays; contact compliance@accesshealthcare.ie for a 15% coupon."
             }
           ],
           "Patient Handling": [
@@ -256,7 +262,7 @@
               "providerName": "GSW Solutions",
               "courseName": "Cardiac First Responder (CFR)",
               "url": "https://gswsolutions.ie/first-aid-and-safety/the-cardiac-first-responder-cfr/",
-              "notes": "Held on Mondays. Contact compliance@accesshealthcare.ie for a 15% coupon"
+              "notes": null
             },
             {
               "providerName": "SafeTech",
