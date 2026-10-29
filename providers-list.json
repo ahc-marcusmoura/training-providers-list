@@ -1,0 +1,748 @@
+[
+  {
+    "name": "Dublin",
+    "counties": [
+      {
+        "name": "Dublin",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "MediCore",
+              "courseName": "Heartsaver CPR & AED",
+              "url": "https://medicore.ie/heartsaver-cpr-aed-course/",
+              "notes": null
+            },
+            {
+              "providerName": "All Courses Dublin",
+              "courseName": "Heartsaver CPR & AED",
+              "url": "https://www.allcoursesdublin.com/store/Heartsaver-CPR-&-AED-p166318715",
+              "notes": null
+            },
+            {
+              "providerName": "Omega Training",
+              "courseName": "CPR and First Aid Courses",
+              "url": "https://omegatraining.ie/courses/",
+              "notes": null
+            },
+            {
+              "providerName": "WD Training",
+              "courseName": "Irish Heart Foundation Heartsaver CPR & AED",
+              "url": "https://wdtraining.ie/ihf-heartsaver-cpr-aed-training/",
+              "notes": null
+            },
+            {
+              "providerName": "Ayrton",
+              "courseName": "Emergency First Aid Training",
+              "url": "https://ayrton.ie/product/emergency-first-aid-training/",
+              "notes": null
+            },
+            {
+              "providerName": "Safe Hands",
+              "courseName": "First Aid Responder Training",
+              "url": "https://www.safehands.ie/first-aid-responder-training",
+              "notes": null
+            },
+            {
+              "providerName": "Edmart",
+              "courseName": "Basic Life Support for Healthcare Providers",
+              "url": "https://www.edmart.ie/product-category/basic_life_support_for_healthcare_providers_course/",
+              "notes": null
+            },
+            {
+              "providerName": "Code Blue",
+              "courseName": "Basic Life Support (BLS)",
+              "url": "https://codeblue.ie/basic-life-support-bls/",
+              "notes": null
+            },
+            {
+              "providerName": "Pulse8",
+              "courseName": "Cardiac First Response",
+              "url": "https://pulse8.ie/cardiac-first-response/",
+              "notes": null
+            },
+            {
+              "providerName": "U-Safety",
+              "courseName": "First Aid Training",
+              "url": "https://www.usafety.ie/first-aid",
+              "notes": null
+            },
+            {
+              "providerName": "DX2 Training",
+              "courseName": "Cardiac First Response Community",
+              "url": "https://dx2training.ie/training/cardiac-first-response-community-c-html/",
+              "notes": null
+            },
+            {
+              "providerName": "Platinum Safety",
+              "courseName": "First Aid Courses",
+              "url": "https://www.platinumsafety.ie/first-aid-courses",
+              "notes": "Not Paediatric"
+            },
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "Cardiac First Responder",
+              "url": "https://www.futureprooftraining.ie/product/cardiac-first-responder/",
+              "notes": null
+            },
+            {
+              "providerName": "Shannon Safety",
+              "courseName": "Patient Moving & Handling and Cardiac First Response",
+              "url": "https://shannonsafety.ie/book-a-course/",
+              "notes": "Held on Mondays; contact compliance@accesshealthcare.ie for a 35% coupon."
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "MediCore",
+              "courseName": "Patient Moving and Handling",
+              "url": "https://medicore.ie/patient-moving-handling-2/",
+              "notes": null
+            },
+            {
+              "providerName": "All Courses Dublin",
+              "courseName": "Patient Moving and Handling",
+              "url": "https://www.allcoursesdublin.com/store/Patient-Moving-and-Handling-p115454814",
+              "notes": null
+            },
+            {
+              "providerName": "SafeTech",
+              "courseName": "People Moving and Handling",
+              "url": "https://www.safetech.ie/course/people-moving-handling",
+              "notes": null
+            },
+            {
+              "providerName": "WD Training",
+              "courseName": "Patient Manual Handling Training",
+              "url": "https://wdtraining.ie/patient-manual-handling-training/",
+              "notes": null
+            },
+            {
+              "providerName": "Safe Hands",
+              "courseName": "Patient Handling Training",
+              "url": "https://www.safehands.ie/patient-handling-training",
+              "notes": null
+            },
+            {
+              "providerName": "Edmart",
+              "courseName": "People and Patient Handling",
+              "url": "https://www.edmart.ie/product-category/people_patient_handling/",
+              "notes": null
+            },
+            {
+              "providerName": "U-Safety",
+              "courseName": "Patient Handling Training",
+              "url": "https://www.usafety.ie/services/patient-handling-training",
+              "notes": null
+            },
+            {
+              "providerName": "Shannon Safety",
+              "courseName": "Patient Moving & Handling",
+              "url": "https://shannonsafety.ie/book-a-course/",
+              "notes": "Held on Fridays; contact compliance@accesshealthcare.ie for a 35% coupon."
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "Edmart",
+              "courseName": "Prevention and Management of Aggression and Violence",
+              "url": "https://www.edmart.ie/course/prevention-and-management-of-aggression-and-violence/",
+              "notes": null
+            },
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "Preventing and Managing Violence and Aggression Skills",
+              "url": "https://www.futureprooftraining.ie/product/preventing-managing-violence-aggression-skills/",
+              "notes": null
+            },
+            {
+              "providerName": "Security & Safety Training",
+              "courseName": "Prevention and Management of Aggression and Violence",
+              "url": "https://www.securitysafety.ie/prevention_management_aggression_violence.html",
+              "notes": null
+            },
+            {
+              "providerName": "SkillsTeam",
+              "courseName": "Crisis Intervention and Prevention Skills",
+              "url": "https://skillsteam.ie/crisis-intervention-prevention-skills/",
+              "notes": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "West/North West",
+    "counties": [
+      {
+        "name": "Mayo",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Mayo Training Institute",
+              "courseName": "First Aid Responder",
+              "url": "https://mayotraininginstitute.ie/product/first-aid-responder/",
+              "notes": null
+            },
+            {
+              "providerName": "Irish Heart Foundation",
+              "courseName": "Cardiac First Response",
+              "url": "https://irishheart.ie/events/abaris-training-management/",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "Mayo Training Institute",
+              "courseName": "Patient Handling",
+              "url": "https://mayotraininginstitute.ie/courses/",
+              "notes": "Make sure it is Patient Handling, not just Manual Handling"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Galway",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "U-Safety",
+              "courseName": "First Aid Training",
+              "url": "https://www.usafety.ie/first-aid",
+              "notes": null
+            },
+            {
+              "providerName": "Platinum Safety",
+              "courseName": "First Aid Courses",
+              "url": "https://www.platinumsafety.ie/first-aid-courses/",
+              "notes": "Not Paediatric"
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "SafeTech",
+              "courseName": "People Moving and Handling",
+              "url": "https://www.safetech.ie/course/people-moving-handling",
+              "notes": null
+            },
+            {
+              "providerName": "U-Safety",
+              "courseName": "Patient Handling Training",
+              "url": "https://www.usafety.ie/services/patient-handling-training",
+              "notes": null
+            },
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "People Manual Handling",
+              "url": "https://www.futureprooftraining.ie/product/people-manual-handling/",
+              "notes": null
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "Preventing and Managing Violence and Aggression Skills",
+              "url": "https://www.futureprooftraining.ie/product/preventing-managing-violence-aggression-skills/",
+              "notes": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sligo",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "GSW Solutions",
+              "courseName": "Cardiac First Responder (CFR)",
+              "url": "https://gswsolutions.ie/first-aid-and-safety/the-cardiac-first-responder-cfr/",
+              "notes": null
+            },
+            {
+              "providerName": "SafeTech",
+              "courseName": "Basic First Aid and Emergency Response",
+              "url": "https://www.safetech.ie/course/basic-first-aid-emergency-",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "Premier First Aid Training",
+              "courseName": "Patient Manual Handling Courses",
+              "url": "https://premierfirstaidtraining.ie/patient-manual-handling-courses/",
+              "notes": null
+            },
+            {
+              "providerName": "GSW Solutions",
+              "courseName": "Patient Moving and Handling",
+              "url": "https://gswsolutions.ie/health-care/patient-moving-and-handling/",
+              "notes": null
+            },
+            {
+              "providerName": "SafeTech",
+              "courseName": "People Handling",
+              "url": "https://www.safetech.ie/",
+              "notes": "Make sure it is People Handling, not Manual Handling"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Donegal",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Donegal Safety Services",
+              "courseName": "Basic First Aid",
+              "url": "https://donegalsafetyservices.ie/course/basic-first-aid/",
+              "notes": null
+            },
+            {
+              "providerName": "Donegal Safety Services",
+              "courseName": "Cardiac First Response",
+              "url": "https://donegalsafetyservices.ie/course/cardiac-first-response/",
+              "notes": null
+            },
+            {
+              "providerName": "Donegal Safety Services",
+              "courseName": "Irish Heart Foundation Basic Life Support (BLS)",
+              "url": "https://donegalsafetyservices.ie/course/ihf-basic-life-support-bls/",
+              "notes": null
+            },
+            {
+              "providerName": "Donegal Safety Services",
+              "courseName": "First Aid Response",
+              "url": "https://donegalsafetyservices.ie/course/first-aid-response-course/",
+              "notes": null
+            },
+            {
+              "providerName": "Donegal Safety Services",
+              "courseName": "Irish Heart Foundation Heartsaver CPR & AED",
+              "url": "https://donegalsafetyservices.ie/course/ihf-heartsaver-cpr-aed/",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "SafeTech",
+              "courseName": "People Handling",
+              "url": "https://www.safetech.ie/",
+              "notes": "Make sure it is People Handling, not Manual Handling"
+            },
+            {
+              "providerName": "Donegal Safety Services",
+              "courseName": "People Movement and Handling",
+              "url": "https://donegalsafetyservices.ie/course/people-movement-and-handling/",
+              "notes": null
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "Donegal Safety Services",
+              "courseName": "Prevention and Management of Aggression and Violence (PMAV)",
+              "url": "https://donegalsafetyservices.ie/course/prevention-and-management-of-aggression-violence-pmav/",
+              "notes": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Monaghan",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "NBTS Training",
+              "courseName": "Cardiac First Response",
+              "url": "https://nbts.ie/calendar",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "NBTS Training",
+              "courseName": "Patient Handling",
+              "url": "https://nbts.ie/calendar",
+              "notes": "Make sure to book Patient Handling, not just Manual Handling"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "South East",
+    "counties": [
+      {
+        "name": "Wexford/Waterford",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Premier First Aid Training",
+              "courseName": "First Aid Courses",
+              "url": "https://premierfirstaidtraining.ie/upcoming-first-aid-courses/",
+              "notes": null
+            },
+            {
+              "providerName": "David Grogan Training",
+              "courseName": "Cardiac First Response",
+              "url": "https://davidgrogantraining.ie/bookings/",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "Premier First Aid Training",
+              "courseName": "Patient Manual Handling Courses",
+              "url": "https://premierfirstaidtraining.ie/patient-manual-handling-courses/",
+              "notes": null
+            },
+            {
+              "providerName": "David Grogan Training",
+              "courseName": "People Handling",
+              "url": "https://davidgrogantraining.ie/bookings/",
+              "notes": "Make sure it is People Handling, not Manual Handling"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Kilkenny",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Premier First Aid Training",
+              "courseName": "Basic Life Support",
+              "url": "https://premierfirstaidtraining.ie/basic-life-support/",
+              "notes": null
+            },
+            {
+              "providerName": "David Grogan Training",
+              "courseName": "Cardiac First Response",
+              "url": "https://davidgrogantraining.ie/bookings/",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "Premier First Aid Training",
+              "courseName": "Patient Manual Handling Courses",
+              "url": "https://premierfirstaidtraining.ie/patient-manual-handling-courses/",
+              "notes": null
+            },
+            {
+              "providerName": "David Grogan Training",
+              "courseName": "People Handling",
+              "url": "https://davidgrogantraining.ie/bookings/",
+              "notes": "Make sure it is Patient Handling, not Manual Handling"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Carlow",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Irish Heart Foundation",
+              "courseName": "Basic Life Support for Healthcare Professionals",
+              "url": "https://irishheart.ie/what-is-cpr/healthcare-professionals/?cat=All+Course+Types&county=5&date=All+Dates",
+              "notes": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "South West",
+    "counties": [
+      {
+        "name": "Kerry",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Platinum Safety",
+              "courseName": "First Aid Courses",
+              "url": "https://www.platinumsafety.ie/first-aid-courses/",
+              "notes": "Not Paediatric"
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "Hickey Safety",
+              "courseName": "Manual People Handling Training",
+              "url": "https://hickeysafety.ie/manual-people-handling-training-kerry-cork-limerick/",
+              "notes": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Cork",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Pulse Education",
+              "courseName": "Heartsaver CPR & AED",
+              "url": "https://www.pulseeducation.ie/heartsaver-cpraed.html",
+              "notes": null
+            },
+            {
+              "providerName": "RR CPR",
+              "courseName": "Irish Heart Foundation Basic Life Support for Healthcare Providers",
+              "url": "https://www.rrcpr.com/avada_portfolio/irish-heart-foundation-bls-for-healthcare/",
+              "notes": null
+            },
+            {
+              "providerName": "ER Training",
+              "courseName": "Irish Heart Foundation Basic Life Support",
+              "url": "https://www.ertraining.ie/copy-of-irish-heart-foundation-bls-co",
+              "notes": null
+            },
+            {
+              "providerName": "Platinum Safety",
+              "courseName": "First Aid Courses",
+              "url": "https://www.platinumsafety.ie/first-aid-courses/",
+              "notes": "Not Paediatric"
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "ER Training",
+              "courseName": "People Moving and Handling",
+              "url": "https://www.ertraining.ie/people-moving-and-handling-cork",
+              "notes": null
+            },
+            {
+              "providerName": "RR CPR",
+              "courseName": "People Moving and Handling",
+              "url": "https://www.rrcpr.com/book-a-course-people-moving-and-handling/",
+              "notes": null
+            },
+            {
+              "providerName": "SafeTech",
+              "courseName": "People Moving and Handling",
+              "url": "https://www.safetech.ie/course/people-moving-handling",
+              "notes": null
+            },
+            {
+              "providerName": "Hickey Safety",
+              "courseName": "Manual People Handling Training",
+              "url": "https://hickeysafety.ie/manual-people-handling-training-kerry-cork-limerick/",
+              "notes": null
+            },
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "People Manual Handling",
+              "url": "https://www.futureprooftraining.ie/product/people-manual-handling/",
+              "notes": null
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "Preventing and Managing Violence and Aggression Skills",
+              "url": "https://www.futureprooftraining.ie/product/preventing-managing-violence-aggression-skills/",
+              "notes": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Midlands",
+    "counties": [
+      {
+        "name": "Louth/Meath",
+        "courses": {
+          "CPR": [],
+          "Patient Handling": [
+            {
+              "providerName": "SafeTech",
+              "courseName": "People Moving and Handling",
+              "url": "https://www.safetech.ie/course/people-moving-handling",
+              "notes": null
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "M Handling",
+              "courseName": "Prevention and Management of Aggression and Violence in the Workplace",
+              "url": "https://mhandling.ie/prevention-management-of-aggression-voilence-in-the-workplace-pmav/",
+              "notes": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Westmeath/Offaly",
+        "courses": {
+          "CPR": [],
+          "Patient Handling": [],
+          "MAPA": [
+            {
+              "providerName": "Security & Safety Training",
+              "courseName": "Prevention and Management of Aggression and Violence",
+              "url": "https://www.securitysafety.ie/prevention_management_aggression_violence.html",
+              "notes": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Kildare",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "People Manual Handling",
+              "url": "https://www.futureprooftraining.ie/product/people-manual-handling/",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "The Art of Caring",
+              "courseName": "Patient Handling",
+              "url": "https://theartofcaring.ie/services",
+              "notes": null
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "FutureProof Training",
+              "courseName": "Preventing and Managing Violence and Aggression Skills",
+              "url": "https://www.futureprooftraining.ie/product/preventing-managing-violence-aggression-skills/",
+              "notes": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Limerick/Clare/North Tipperary",
+    "counties": [
+      {
+        "name": "Limerick",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Pulse8",
+              "courseName": "Cardiac First Response",
+              "url": "https://pulse8.ie/cardiac-first-response/",
+              "notes": null
+            },
+            {
+              "providerName": "Safet Group",
+              "courseName": "First Aid Courses",
+              "url": "https://safetgroup.ie/first-aid-courses/",
+              "notes": "Not Sports or Paediatric"
+            },
+            {
+              "providerName": "Platinum Safety",
+              "courseName": "First Aid Courses",
+              "url": "https://www.platinumsafety.ie/first-aid-courses/",
+              "notes": "Not Paediatric"
+            },
+            {
+              "providerName": "Amber Safety",
+              "courseName": "Irish Heart Foundation Heartsaver CPR & AED",
+              "url": "https://ambersafety.ie/product/irish-heart-foundation-heartsaver-cpr-aed/",
+              "notes": null
+            },
+            {
+              "providerName": "Optima Training",
+              "courseName": "Cardiac First Response Community",
+              "url": "https://www.optimatraining.ie/product/cardiac-first-response-community/",
+              "notes": null
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "Premier First Aid Training",
+              "courseName": "Patient Manual Handling Courses",
+              "url": "https://premierfirstaidtraining.ie/patient-manual-handling-courses/",
+              "notes": null
+            },
+            {
+              "providerName": "Safet Group",
+              "courseName": "Person and Patient Handling Training",
+              "url": "https://safetgroup.ie/training/person-patient-handling-training/",
+              "notes": null
+            },
+            {
+              "providerName": "Amber Safety",
+              "courseName": "Patient Moving and Handling Training",
+              "url": "https://ambersafety.ie/product/patient-moving-handling-training/",
+              "notes": null
+            },
+            {
+              "providerName": "Optima Training",
+              "courseName": "People and Patient Moving and Handling",
+              "url": "https://www.optimatraining.ie/product/people-patient-moving-and-handling/",
+              "notes": null
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "Optima Training",
+              "courseName": "PMAV Level 1: Prevention and Management of Aggression and Violence",
+              "url": "https://www.optimatraining.ie/product/pmav-level-1-prevention-management-of-aggression-and-violence/",
+              "notes": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Clare",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Safet Group",
+              "courseName": "First Aid Courses",
+              "url": "https://safetgroup.ie/first-aid-courses/",
+              "notes": "Not Sports or Paediatric"
+            }
+          ],
+          "Patient Handling": [
+            {
+              "providerName": "Safet Group",
+              "courseName": "Person and Patient Handling Training",
+              "url": "https://safetgroup.ie/training/person-patient-handling-training/",
+              "notes": null
+            }
+          ],
+          "MAPA": [
+            {
+              "providerName": "Safet Group",
+              "courseName": "Prevention and Management of Aggression and Violence (PMAV)",
+              "url": "https://safetgroup.ie/training/pmav/",
+              "notes": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Tipperary",
+        "courses": {
+          "CPR": [
+            {
+              "providerName": "Irish Heart Foundation",
+              "courseName": "Cardiac First Response",
+              "url": "https://irishheart.ie/events/mid-western-regional-hospital-nenagh/",
+              "notes": null
+            },
+            {
+              "providerName": "Platinum Safety",
+              "courseName": "First Aid Courses",
+              "url": "https://www.platinumsafety.ie/first-aid-courses/",
+              "notes": "Not Paediatric"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
